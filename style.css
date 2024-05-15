@@ -2,8 +2,10 @@ body{
     background: rgb(202,92,92);
     background: radial-gradient(circle, rgba(202,92,92,1)
     0%, rgba(0,0,0,1) 100%); 
+    flex-wrap: wrap;
 }
 .qrcode{
     text-align: center;
     padding: 200px;
+    flex-wrap: wrap;
 }
