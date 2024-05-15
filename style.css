@@ -1,7 +1,6 @@
 body{
-    background: rgb(202,92,92);
-    background: radial-gradient(circle, rgba(202,92,92,1)
-    0%, rgba(0,0,0,1) 100%); 
+    background: rgb(121,121,121);
+    background: radial-gradient(circle, rgba(121,121,121,1) 0%, rgba(0,0,0,1) 100%);
 }
 .painel{
     width: 320px;
@@ -10,6 +9,10 @@ body{
     margin: auto;
     border-radius: 30px;
     text-align: center;
+    padding-top: 20px;
+}
+.gif {
+    margin-left: -45px;
     padding-top: 20px;
 }
 
