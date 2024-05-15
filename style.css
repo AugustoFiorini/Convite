@@ -9,3 +9,6 @@ body{
     padding: 200px;
     flex-wrap: wrap;
 }
+a{
+    color: white;
+}
